@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@keyframes wiggle {
+  0%, 100% { transform: rotate(0deg); }
+  25% { transform: rotate(-16deg); }
+  75% { transform: rotate(18deg); }
+}
+
+@keyframes robotBlink {
+  0%, 88%, 100% { transform: scaleY(1); }
+  94% { transform: scaleY(0.1); }
+}
+
+@keyframes robotFloat {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-3px); }
+}

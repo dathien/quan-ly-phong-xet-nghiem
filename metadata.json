@@ -1,0 +1,6 @@
+{
+  "name": "LAB CHEM SMART MANAGER AI",
+  "description": "Hệ thống quản lý thông minh kho hóa chất xét nghiệm y khoa, kiểm kê, cảnh báo FEFO, sơ đồ tủ và phân tích an toàn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
